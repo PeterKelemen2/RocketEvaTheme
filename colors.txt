@@ -1,0 +1,6 @@
+9268ae - purple
+53dc5d - green
+
+time FontSize=(60*#phi#)
+
+Text=":%1"
